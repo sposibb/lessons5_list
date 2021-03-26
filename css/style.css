@@ -1,5 +1,31 @@
 *{transition: all .1s ease-in; padding: 0; margin: 0;}
 body {
     background-color: #3B3F45;
-    text-align: center;
+}
+div {
+    font-size: 18px;
+    padding-left: 15%;
+}
+.div135{
+    background-color: #88839E;
+}
+.end{
+    background-color:#4A4F56;
+    color:#EB7E7F;
+    text-align:center;
+    margin-top: 15px;
+}
+.div24{
+    background-color: #7A7593;
+}
+span{
+    font-size: 10px;
+}
+section{
+    text-align: left;
+    padding: 50px;
+
+    
+    
+    
 }
