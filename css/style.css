@@ -2,9 +2,14 @@
 body {
     background-color: #3B3F45;
 }
-div {
+ul{
     font-size: 18px;
     padding-left: 15%;
+    list-style: none;
+}
+li{
+    text-decoration: none;
+
 }
 .div135{
     background-color: #88839E;
