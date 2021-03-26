@@ -8,9 +8,11 @@ ul{
     margin-left: 25%;
     margin-right: 25%;
 }
-li{
+li :hover{
     text-decoration: none;
-
+    background-color: #625E77;
+    outline-style: solid; color: white;
+    outline-width: 2px;
 }
 .div135{
     background-color: #88839E;
@@ -32,8 +34,4 @@ span{
 section{
     text-align: left;
     padding: 25px;
-
-    
-    
-    
 }
