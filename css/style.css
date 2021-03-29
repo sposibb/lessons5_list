@@ -13,11 +13,10 @@ ul {
   margin-right: 25%;
   border: none;
 }
-li :hover {
+li:hover {
   text-decoration: none;
   background-color: #625e77;
   color: white;
-  display: inline-block;
   border: 1px solid #fff;
 }
 .div135 {
@@ -40,4 +39,8 @@ span {
 section {
   text-align: left;
   padding: 25px;
+}
+.span_before::before {
+}
+.span_after::after {
 }
