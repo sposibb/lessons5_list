@@ -1,37 +1,47 @@
-*{transition: all .1s ease-in; padding: 0; margin: 0;}
+* {
+  transition: all 0.1s ease-in;
+  padding: 0;
+  margin: 0;
+}
 body {
-    background-color: #3B3F45;
+  background-color: #3b3f45;
 }
-ul{
-    font-size: 18px;
-    list-style: none;
-    margin-left: 25%;
-    margin-right: 25%;
+ul {
+  font-size: 18px;
+  list-style: none;
+  margin-left: 25%;
+  margin-right: 25%;
+  border: none;
 }
-li :hover{
-    text-decoration: none;
-    background-color: #625E77;
-    outline-style: solid; color: white;
-    outline-width: 2px;
+li :hover {
+  text-decoration: none;
+  background-color: #625e77;
+  outline-style: solid;
+  color: white;
+  outline-width: 2px;
+  display: inline-block;
 }
-.div135{
-    background-color: #88839E;
+:active{
+  text-decoration: line-through;
 }
-.end{
-    background-color:#4A4F56;
-    color:#EB7E7F;
-    text-align:center;
-    margin-top: 15px;
-    margin-left: 25%;
-    margin-right: 25%;
+.div135 {
+  background-color: #88839e;
 }
-.div24{
-    background-color: #7A7593;
+.end {
+  background-color: #4a4f56;
+  color: #eb7e7f;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
-span{
-    font-size: 10px;
+.div24 {
+  background-color: #7a7593;
 }
-section{
-    text-align: left;
-    padding: 25px;
+span {
+  font-size: 10px;
+}
+section {
+  text-align: left;
+  padding: 25px;
 }
