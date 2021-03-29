@@ -16,13 +16,9 @@ ul {
 li :hover {
   text-decoration: none;
   background-color: #625e77;
-  outline-style: solid;
   color: white;
-  outline-width: 2px;
   display: inline-block;
-}
-:active{
-  text-decoration: line-through;
+  border: 1px solid #fff;
 }
 .div135 {
   background-color: #88839e;
