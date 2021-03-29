@@ -22,7 +22,7 @@ li:nth-child(2n) {
   background-color: #7a7593;
 }
 label {
-  font-size: 16px;
+  font-size: 30px;
   display: inline;
 }
 .class_li:hover {
@@ -41,29 +41,29 @@ input:checked + label {
 }
 [for="pickles"]::after {
   content: "( for the next lessons about CSS )";
-  font-size: 8px;
+  font-size: 15px;
 }
 [for="apples"]::after {
   content: "( for more css manipulations )";
-  font-size: 8px;
+  font-size: 15px;
 }
 [for="oranges"]::after {
   content: "( because they are awesome )";
-  font-size: 8px;
+  font-size: 15px;
 }
 [for="plates"]::after {
   content: "( hm... they always disappear )";
-  font-size: 8px;
+  font-size: 15px;
 }
 [for="sake"]::after {
   content: "( for my friend)";
-  font-size: 8px;
+  font-size: 15px;
 }
 footer {
   background-color: #4a4f56;
   text-align: center;
   color: #eb7d7f;
-  padding: 20px;
+  padding: 25px;
 }
 
 
